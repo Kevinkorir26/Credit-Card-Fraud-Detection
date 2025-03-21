@@ -19,3 +19,20 @@ standardize the amount feature using StandardScaler()
 split the data into training(80%) and testing(20%)
 # Machine Learning model
 implement Random Forest for better fraud detection using n_estimators=200
+# MODEL EVALUATION
+    precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     56864
+           1       0.94      0.83      0.88     98 
+
+            accuracy                           1.00  
+
+# Feature improvement
+use XGBoost for handling imbalanced data
+tune hyperparameters for better fraud detection
+implementation of real-time fraud detection
+
+# Author
+Kevin Korir
+kevinkipyegonk@gmail.com
+Kdatainsights
